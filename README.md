@@ -44,12 +44,27 @@ My background in mechanical engineering grounds my approach to artificial intell
 
 ### 🚀 Selected Works
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Neuro-TopOpt](https://github.com/cntcaak/Neuro-TopOpt)** | AI for topology optimization in mechanical components for additive manufacturing, accelerating generative design cycles. | `Python`, `TensorFlow`, `Generative AI` |
-| **[FarmFin Assist](https://github.com/cntcaak)** | Multilingual web application for evaluating agri-credit and financial health (NABARD Agri Credit Hackathon 2025). | `Streamlit`, `Python`, `Financial Modeling` |
-| **[PennyWise AI](https://github.com/cntcaak/PennyWise-AI)** | Intelligent financial parsing and predictive analytics engine architected for scalable data extraction. | `FastAPI`, `Next.js`, `Scikit-Learn`, `SQL` |
-| **[Premium Portfolio](https://github.com/cntcaak/Portfolio-Website)** | Cinematic, high-performance web environment featuring bespoke micro-interactions and smooth scroll reveals. | `Next.js`, `TypeScript`, `Framer Motion` |
+**[Neuro-TopOpt](https://github.com/cntcaak/Neuro-TopOpt)** <br />
+AI for topology optimization in mechanical components for additive manufacturing, accelerating generative design cycles. <br />
+<kbd>Python</kbd> &nbsp; <kbd>TensorFlow</kbd> &nbsp; <kbd>Generative AI</kbd>
+
+<br />
+
+**[FarmFin Assist](https://github.com/cntcaak)** <br />
+Multilingual web application for evaluating agri-credit and financial health (NABARD Agri Credit Hackathon 2025). <br />
+<kbd>Streamlit</kbd> &nbsp; <kbd>Python</kbd> &nbsp; <kbd>Financial Modeling</kbd>
+
+<br />
+
+**[PennyWise AI](https://github.com/cntcaak/PennyWise-AI)** <br />
+Intelligent financial parsing and predictive analytics engine architected for scalable data extraction. <br />
+<kbd>FastAPI</kbd> &nbsp; <kbd>Next.js</kbd> &nbsp; <kbd>Scikit-Learn</kbd> &nbsp; <kbd>SQL</kbd>
+
+<br />
+
+**[Premium Portfolio](https://github.com/cntcaak/Portfolio-Website)** <br />
+Cinematic, high-performance web environment featuring bespoke micro-interactions and smooth scroll reveals. <br />
+<kbd>Next.js</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>Framer Motion</kbd>
 
 ---
 
