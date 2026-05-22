@@ -23,33 +23,22 @@
 ### ✦ The Intersection of Physical and Digital
 My background in mechanical engineering grounds my approach to artificial intelligence in physical reality. I engineer intelligent systems designed for industrial application, generative optimization, and predictive architecture, bridging the gap between theoretical research and robust deployment.
 
-* 🎓 **Education:** Mechanical Engineering (B.E.) | Harvard CS50x Alumni (2026) | Preparing for M.S. in Mechanical Engineering in the US.
-* 💼 **Experience:** Former Subject Matter Expert at Amazon (1.5 years) & Co-founder of Shot On Estes.
-* 🌐 **Community:** Google Student Ambassador | GSSoC Ambassador.
+* 🎓 **Education:** Mechanical Engineering (B.E.) | Harvard CS50x Alumni (2026)
+* 💼 **Experience:** Subject Matter Expert @ Amazon (1.5 Years)
+* 🌐 **Ecosystem:** Google Student Ambassador | GSSoC Ambassador
 
 ---
 
 ### ⬡ Core Arsenal
 
-**Languages & Databases**
-<br />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-
-**AI & Machine Learning**
-<br />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" />
-
-**Architecture & Development**
-<br />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+> **Languages & Databases** <br />
+> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+>
+> **AI & Machine Learning** <br />
+> <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" />
+>
+> **Architecture & Systems** <br />
+> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 ---
 
@@ -66,11 +55,9 @@ My background in mechanical engineering grounds my approach to artificial intell
 
 ### 🎯 Current Trajectory & Focus
 
-Presently researching, building, and expanding my expertise within the following domains:
-
-* **Generative Design Optimization:** Leveraging neural networks to accelerate topology optimization workflows for additive manufacturing.
-* **Industrial Computer Vision:** Developing high-precision defect detection pipelines capable of edge deployment in manufacturing environments.
-* **Predictive Architecture:** Architecting time-series forecasting models using sensor data to optimize mechanical maintenance schedules and reduce downtime.
+* ⚡ **Generative Design Optimization:** Leveraging neural networks to accelerate topology optimization workflows for additive manufacturing.
+* ⚙️ **Industrial Computer Vision:** Developing high-precision defect detection pipelines capable of edge deployment in manufacturing environments.
+* 🧠 **Predictive Architecture:** Architecting time-series forecasting models using sensor data to optimize mechanical maintenance schedules and reduce downtime.
 
 <br />
 
