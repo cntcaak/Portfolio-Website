@@ -26,7 +26,6 @@ My background in mechanical engineering grounds my approach to artificial intell
 * 🎓 **Education:** Mechanical Engineering (B.E.) | Harvard CS50x Alumni (2026) | Preparing for M.S. in Mechanical Engineering in the US.
 * 💼 **Experience:** Former Subject Matter Expert at Amazon (1.5 years) & Co-founder of Shot On Estes.
 * 🌐 **Community:** Google Student Ambassador | GSSoC Ambassador.
-* ⚡ **Current Focus:** Industrial AI, Computer Vision, Predictive Systems, and AI-powered products.
 
 ---
 
@@ -61,16 +60,17 @@ My background in mechanical engineering grounds my approach to artificial intell
 | **[Neuro-TopOpt](https://github.com/cntcaak/Neuro-TopOpt)** | AI for topology optimization in mechanical components for additive manufacturing, accelerating generative design cycles. | `Python`, `TensorFlow`, `Generative AI` |
 | **[FarmFin Assist](https://github.com/cntcaak)** | Multilingual web application for evaluating agri-credit and financial health (NABARD Agri Credit Hackathon 2025). | `Streamlit`, `Python`, `Financial Modeling` |
 | **[PennyWise AI](https://github.com/cntcaak/PennyWise-AI)** | Intelligent financial parsing and predictive analytics engine architected for scalable data extraction. | `FastAPI`, `Next.js`, `Scikit-Learn`, `SQL` |
-| **[Premium Portfolio Architecture](https://github.com/cntcaak/Portfolio-Website)** | Cinematic, high-performance web environment featuring bespoke micro-interactions and smooth scroll reveals. | `Next.js`, `TypeScript`, `Framer Motion` |
+| **[Premium Portfolio](https://github.com/cntcaak/Portfolio-Website)** | Cinematic, high-performance web environment featuring bespoke micro-interactions and smooth scroll reveals. | `Next.js`, `TypeScript`, `Framer Motion` |
 
 ---
 
-### 📊 GitHub Analytics
+### 🎯 Current Trajectory & Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cntcaak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&count_private=true&disable_animations=true&v=999" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cntcaak&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" width="48%" />
-</p>
+Presently researching, building, and expanding my expertise within the following domains:
+
+* **Generative Design Optimization:** Leveraging neural networks to accelerate topology optimization workflows for additive manufacturing.
+* **Industrial Computer Vision:** Developing high-precision defect detection pipelines capable of edge deployment in manufacturing environments.
+* **Predictive Architecture:** Architecting time-series forecasting models using sensor data to optimize mechanical maintenance schedules and reduce downtime.
 
 <br />
 
