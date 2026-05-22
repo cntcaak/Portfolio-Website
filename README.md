@@ -67,12 +67,14 @@ My background in mechanical engineering grounds my approach to artificial intell
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cntcaak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="GitHub Stats" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cntcaak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cntcaak&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" width="48%" />
-</div>
+</p>
 
 <br />
 <div align="center">
+  <i>"The future of engineering lies not just in constructing the physical world, but in embedding intelligence within it."</i>
+</div>
   <i>"The future of engineering lies not just in constructing the physical world, but in embedding intelligence within it."</i>
 </div>
