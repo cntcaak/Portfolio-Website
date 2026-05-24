@@ -113,7 +113,7 @@ export default function Portfolio() {
               >
                 <div className="w-full h-full rounded-full overflow-hidden bg-black relative">
                   <Image
-                    src="/AAK_selfie.jpeg"
+                    src="/profile.jpeg"
                     alt="Portrait"
                     fill
                     className="object-cover opacity-90 hover:opacity-100 transition-opacity duration-500 grayscale-[15%]"
