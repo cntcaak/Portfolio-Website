@@ -22,6 +22,15 @@ const LinkedinIcon = ({ size = 24 }: { size?: number }) => (
 );
 ease: [0.16, 1, 0.3, 1] as [number, number, number, number]
 // --- Animation Variants ---
+const staggerContainer = {
+  hidden: {},
+  visible: {
+    transition: {
+      staggerChildren: 0.2,
+    },
+  },
+}
+
 const fadeIn = {
   hidden: {
     opacity: 0,
