@@ -20,7 +20,7 @@ const LinkedinIcon = ({ size = 24 }: { size?: number }) => (
     <circle cx="4" cy="4" r="2" />
   </svg>
 );
-
+ease: "easeOut"
 // --- Animation Variants ---
 const fadeIn = {
   hidden: { opacity: 0, y: 20 },
