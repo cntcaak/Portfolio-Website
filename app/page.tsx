@@ -20,21 +20,21 @@ const LinkedinIcon = ({ size = 24 }: { size?: number }) => (
     <circle cx="4" cy="4" r="2" />
   </svg>
 );
-ease: "easeOut"
+ease: [0.16, 1, 0.3, 1] as [number, number, number, number]
 // --- Animation Variants ---
 const fadeIn = {
-  hidden: { opacity: 0, y: 20 },
-  visible: { opacity: 1, y: 0, transition: { duration: 0.8, ease: "easeOut" } }
-};
-
-const staggerContainer = {
-  hidden: { opacity: 0 },
+  hidden: {
+    opacity: 0,
+    y: 20,
+  },
   visible: {
     opacity: 1,
-    transition: { staggerChildren: 0.15 }
-  }
-};
-
+    y: 0,
+    transition: {
+      duration: 0.6,
+    },
+  },
+}
 export default function Portfolio() {
   // Global configured links
   const githubProfile = "https://github.com/cntcaak";
@@ -94,7 +94,7 @@ export default function Portfolio() {
             <motion.div
               initial={{ opacity: 0, scale: 0.95 }}
               animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 1, ease: "easeOut" }}
+              transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] as [number, number, number, number] }}
               className="relative flex justify-center lg:justify-end"
             >
               <motion.div
