@@ -1,81 +1,228 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=250&section=header&text=Engineering%20Intelligence.&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
-</div>
+# ✨ AAK Portfolio Website
 
-<div align="center">
-  <h2>Hi, I'm AAK. (Akber) 👋</h2>
-  <p><strong>Applied AI Engineer | Mechanical Engineer</strong></p>
-  <p>Building intelligent systems at the intersection of AI, physical engineering, and real-world optimization.</p>
-  
-  <a href="mailto:cntc.aak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/cntcaak/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/cntcaak/Portfolio-Website">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+### Premium AI Engineer Portfolio | Built with Next.js + Framer Motion
 
-<br />
+<p align="center">
+  <img src="public/profile.jpg" width="220" style="border-radius:50%">
+</p>
 
-### ✦ The Intersection of Physical and Digital
-My background in mechanical engineering grounds my approach to artificial intelligence in physical reality. I engineer intelligent systems designed for industrial application, generative optimization, and predictive architecture, bridging the gap between theoretical research and robust deployment.
+<p align="center">
 
-* 🎓 **Education:** Mechanical Engineering (B.E.) | Harvard CS50x Alumni (2026)
-* 💼 **Experience:** Subject Matter Expert @ Amazon (1.5 Years)
-* 🌐 **Ecosystem:** Google Student Ambassador | GSSoC Ambassador
+<img src="https://img.shields.io/badge/Next.js-16-black">
+<img src="https://img.shields.io/badge/TypeScript-Ready-blue">
+<img src="https://img.shields.io/badge/TailwindCSS-Styled-06B6D4">
+<img src="https://img.shields.io/badge/Framer--Motion-Animated-purple">
+<img src="https://img.shields.io/badge/Status-Live-success">
+
+</p>
 
 ---
 
-### ⬡ Core Arsenal
+## 🌐 Live Website
 
-> **Languages & Databases** <br />
-> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
->
-> **AI & Machine Learning** <br />
-> <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" />
->
-> **Architecture & Systems** <br />
-> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+🚀 Portfolio:
+
+**https://aak.is-a.dev/**
 
 ---
 
-### 🚀 Selected Works
+## 📌 Overview
 
-**[Neuro-TopOpt](https://github.com/cntcaak/Neuro-TopOpt)** <br />
-AI for topology optimization in mechanical components for additive manufacturing, accelerating generative design cycles. <br />
-<kbd>Python</kbd> &nbsp; <kbd>TensorFlow</kbd> &nbsp; <kbd>Generative AI</kbd>
+A modern AI engineering portfolio designed to present projects, skills, technical expertise, and professional experience through a clean, cinematic interface.
 
-<br />
+The project combines modern frontend technologies with motion design principles to create an engaging experience while maintaining high performance and responsive behavior.
 
-**[FarmFin Assist](https://github.com/cntcaak)** <br />
-Multilingual web application for evaluating agri-credit and financial health (NABARD Agri Credit Hackathon 2025). <br />
-<kbd>Streamlit</kbd> &nbsp; <kbd>Python</kbd> &nbsp; <kbd>Financial Modeling</kbd>
+Built for:
 
-<br />
-
-**[PennyWise AI](https://github.com/cntcaak/PennyWise-AI)** <br />
-Intelligent financial parsing and predictive analytics engine architected for scalable data extraction. <br />
-<kbd>FastAPI</kbd> &nbsp; <kbd>Next.js</kbd> &nbsp; <kbd>Scikit-Learn</kbd> &nbsp; <kbd>SQL</kbd>
-
-<br />
-
-**[Premium Portfolio](https://github.com/cntcaak/Portfolio-Website)** <br />
-Cinematic, high-performance web environment featuring bespoke micro-interactions and smooth scroll reveals. <br />
-<kbd>Next.js</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>Framer Motion</kbd>
+* Professional branding
+* Recruiter visibility
+* Project showcasing
+* AI/ML portfolio presentation
+* Personal web presence
 
 ---
 
-### 🎯 Current Trajectory & Focus
+## ✨ Features
 
-* ⚡ **Generative Design Optimization:** Leveraging neural networks to accelerate topology optimization workflows for additive manufacturing.
-* ⚙️ **Industrial Computer Vision:** Developing high-precision defect detection pipelines capable of edge deployment in manufacturing environments.
-* 🧠 **Predictive Architecture:** Architecting time-series forecasting models using sensor data to optimize mechanical maintenance schedules and reduce downtime.
+### 🎨 Modern UI Design
 
-<br />
+* Minimal aesthetic
+* Dark theme interface
+* Responsive layout
+* Clean typography
+* Gradient visual effects
 
-<div align="center">
-  <i>"The future of engineering lies not just in constructing the physical world, but in embedding intelligence within it."</i>
-</div>
+### ⚡ Interactive Animations
+
+* Framer Motion transitions
+* Smooth entrance animations
+* Hover effects
+* Motion-based interactions
+
+### 👨‍💻 Portfolio Sections
+
+* Hero section
+* About section
+* Technical skills
+* Featured projects
+* Experience timeline
+* Contact section
+
+### 📱 Responsive Design
+
+* Desktop optimized
+* Mobile friendly
+* Tablet compatibility
+
+### 🔗 Integrated Links
+
+* GitHub
+* LinkedIn
+* Email
+* Project repositories
+* Custom domain support
+
+---
+
+## 🛠 Tech Stack
+
+| Category   | Technologies  |
+| ---------- | ------------- |
+| Frontend   | Next.js       |
+| Language   | TypeScript    |
+| Styling    | TailwindCSS   |
+| Animation  | Framer Motion |
+| Icons      | Lucide React  |
+| Deployment | Vercel        |
+| Domain     | is-a.dev      |
+
+---
+
+## 📂 Project Structure
+
+```text
+Portfolio-Website/
+│
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+│
+├── public/
+│   ├── profile.jpg
+│   ├── next.svg
+│   └── assets
+│
+├── package.json
+├── next.config.ts
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+## 🚀 Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/cntcaak/Portfolio-Website.git
+
+cd Portfolio-Website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+---
+
+## ▶ Run Development Server
+
+```bash
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 📸 Website Preview
+
+### Hero Section
+
+<p align="center">
+<img src="preview-home.png" width="850">
+</p>
+
+### Projects Section
+
+<p align="center">
+<img src="preview-projects.png" width="850">
+</p>
+
+### Skills Section
+
+<p align="center">
+<img src="preview-skills.png" width="850">
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+Projects showcased:
+
+* Neuro-TopOpt
+* PennyWise AI
+* Industrial Defect Detection
+* AI Engineering Projects
+
+---
+
+## 📈 Objectives
+
+* Build a professional online presence
+* Showcase AI engineering projects
+* Improve recruiter visibility
+* Create a scalable portfolio architecture
+
+---
+
+## 🔮 Future Improvements
+
+* [ ] Blog integration
+* [ ] Dynamic project CMS
+* [ ] Dark/light theme toggle
+* [ ] Analytics dashboard
+* [ ] AI chatbot assistant
+* [ ] Visitor metrics
+
+---
+
+## 👨‍💻 Author
+
+Akber Ali Khan
+
+🌐 Portfolio:
+https://aak.is-a.dev/
+
+GitHub:
+https://github.com/cntcaak
+
+LinkedIn:
+https://linkedin.com/in/cntcaak
+
+---
+
+## ⭐ Support
+
+If you found this project useful:
+
+Give it a ⭐ on GitHub
